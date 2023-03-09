@@ -3,4 +3,4 @@
 
 [Patika ödev linki](https://app.patika.dev/courses/html/odev2)
 
-[](img/html-task2.jpeg)
+[](img/task2.jpeg)
